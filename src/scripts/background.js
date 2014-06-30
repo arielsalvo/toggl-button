@@ -9,6 +9,7 @@ var TogglButton = {
   $newApiUrl: "https://new.toggl.com/api/v8",
   $sites: new RegExp(
     [
+      'helpdesk\\.globant\\.com',
       'asana\\.com',
       'podio\\.com',
       'trello\\.com',

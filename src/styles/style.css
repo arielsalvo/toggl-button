@@ -168,3 +168,10 @@
   background-position: 7% 40%;
   padding-left: 30px !important;
 }
+
+/********* RT-HELPDESK *********/
+.toggl-button.rthelpdesk {
+  float: right;
+  font-size: .8em;
+  font-weight: normal;
+}
